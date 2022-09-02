@@ -1,4 +1,4 @@
-### Hi there 👋
+### AP Computer Science Principles Class Work
 
 <!--
 **rose-goldy/rose-goldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
